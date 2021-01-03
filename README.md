@@ -2,18 +2,26 @@
 
 # Subjects to talk about
 
-[ ] k8s
-[ ] vault
-[ ] ruby on rails
-[ ] django
-[ ] grafana
-[ ] prometheus
-[ ] terraform
-[ ] aws
-[ ] gcp
-[ ] nodejs
-[ ] react
-[ ] vuejs
-[ ] elixir
-[ ] phoenix
-[ ] Rspec
+
+## DEVOPS
+
+- [ ] k8s
+- [ ] vault
+- [ ] grafana
+- [ ] prometheus
+- [ ] terraform
+- [ ] aws
+- [ ] gcp
+- [ ] HAPROXY
+
+## DEV
+
+- [ ] ruby on rails
+- [ ] django
+- [ ] nodejs
+- [ ] react
+- [ ] vuejs
+- [ ] elixir
+- [ ] phoenix
+- [ ] Rspec
+- [ ] Laravel
