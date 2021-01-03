@@ -1,9 +1,8 @@
-# youtube
+# PERSONAL BRANDING
 
-# Subjects to talk about
+## Subjects to talk about on youtube
 
-
-## DEVOPS
+### DEVOPS
 
 - [ ] k8s
 - [ ] vault
@@ -14,14 +13,22 @@
 - [ ] gcp
 - [ ] HAPROXY
 
-## DEV
+### DEV
 
-- [ ] ruby on rails
-- [ ] django
+#### Programming
+
+- [ ] Golang
+- [ ] Python
 - [ ] nodejs
+- [ ] elixir
+
+#### Web Frameworks
+
+- [ ] Ruby on Rails
+- [ ] django
 - [ ] react
 - [ ] vuejs
-- [ ] elixir
 - [ ] phoenix
 - [ ] Rspec
 - [ ] Laravel
+
